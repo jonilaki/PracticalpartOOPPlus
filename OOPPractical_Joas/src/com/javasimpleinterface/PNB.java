@@ -1,0 +1,9 @@
+package com.javasimpleinterface;
+
+class PNB implements Bank {
+	public float rateOfInterest()
+	{
+		return 9.7f;
+		}
+
+}
